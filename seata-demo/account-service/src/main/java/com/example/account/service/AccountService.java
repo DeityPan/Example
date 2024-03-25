@@ -1,9 +1,9 @@
 package com.example.account.service;
 
 import com.baomidou.mybatisplus.core.conditions.update.UpdateWrapper;
-import com.example.account.dto.AccountDTO;
 import com.example.account.mapper.AccountMapper;
 import com.example.account.model.Account;
+import com.example.api.AccountDTO;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

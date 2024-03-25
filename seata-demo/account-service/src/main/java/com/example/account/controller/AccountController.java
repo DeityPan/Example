@@ -1,7 +1,7 @@
 package com.example.account.controller;
 
-import com.example.account.dto.AccountDTO;
 import com.example.account.service.AccountService;
+import com.example.api.AccountDTO;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

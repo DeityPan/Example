@@ -1,4 +1,4 @@
-package com.example.storage.dto;
+package com.example.api;
 
 import lombok.Data;
 import lombok.ToString;

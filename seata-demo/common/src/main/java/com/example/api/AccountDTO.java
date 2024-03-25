@@ -1,4 +1,4 @@
-package com.example.account.dto;
+package com.example.api;
 
 import lombok.Data;
 import lombok.ToString;

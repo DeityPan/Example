@@ -1,4 +1,4 @@
-package panbq.seata.dto;
+package com.example.api;
 
 import lombok.Data;
 
